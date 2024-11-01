@@ -1,3 +1,5 @@
+![AI GF/BF](https://ibb.co/qWRTfKX)
+
 # Virtual Girlfriend/Boyfriend
 
 A virtual assistant application that interacts with users as a virtual girlfriend or boyfriend. The application uses speech recognition to understand user input and text-to-speech to respond, creating a conversational experience.
