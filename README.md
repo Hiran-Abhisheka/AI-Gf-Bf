@@ -1,4 +1,4 @@
-![AI GF/BF](https://ibb.co/qWRTfKX)
+![AI GF/BF](https://i.ibb.co/txbVtgk/Screenshot-2024-11-02-015624.png)
 
 # Virtual Girlfriend/Boyfriend
 
